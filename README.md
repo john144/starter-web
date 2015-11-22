@@ -7,4 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ### Copyright
-Copyright git.training
+Copyright (C) 2015 git.training
