@@ -7,5 +7,7 @@ More changes from myfeature branch 2.
 
 Sample website with plenty of files for demos
 
+Add stuff in stash demo
+
 ### Copyright
 Copyright (C) 2015 git.training
